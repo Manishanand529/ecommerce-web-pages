@@ -31,4 +31,17 @@ background-color: black;
  color:#9d9d9d;
  bottom: 0;
 width: 100%;
+margin-top: 90px;
+   }
+   
+   .form
+   {
+       margin-top: 100px;
+       margin-left: 50px;
+       align-content: center;
+   }
+   
+   .jumbo{
+       margin-top: 90px;
+       color: blue;
    }
